@@ -4,7 +4,7 @@ Para iniciar o projeto:
 
 -Baixar o projeto em uma pasta qualquer.
 
--Abrir a solution Gol-Teste\Gol.Api\Gol.Api.sln no vs2019 
+-Abrir a solution Gol-Teste\Gol.Api\Gol.Api.sln no vs2019 ou vs 2022
 	-Configurar no Gol-Teste\Gol.Api\Gol.Api\appsettings.json o caminho na chave DefaultConnection
 	-Apontar para o banco local em: Gol-Teste\Gol.Api\Gol.Entity\Gol.db
 	-Rodar
